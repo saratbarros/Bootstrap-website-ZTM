@@ -1,7 +1,7 @@
 # Bootstrap-website
 - Zero to Mastery: Web developer course 2022
-- Introduction to Bootstrap [view here](https://saratbarros.github.io/Bootstrap-website-ZTM/)
+- Introduction to Bootstrap library exercise [view here](https://saratbarros.github.io/Bootstrap-website-ZTM/)
 
 ## About this project
-- Website exercise created with latest Bootstrap library.
+- Website created with latest Bootstrap library.
 - Mailchimp used to have email database capture.

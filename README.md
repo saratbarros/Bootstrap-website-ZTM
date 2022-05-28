@@ -3,5 +3,4 @@
 - Introduction to Bootstrap library exercise [view here](https://saratbarros.github.io/Bootstrap-website-ZTM/)
 
 ## About this project
-- Website created with latest Bootstrap library.
-- Mailchimp used to have email database capture.
+Exercise using Bootstrap making a Startup Landing Page and adding email subscribe form with MailChimp.
